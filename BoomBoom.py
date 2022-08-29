@@ -7,3 +7,5 @@ for numbers in range(1,100):
         print('Nepse ',numbers)
     else:
         print('Doom ',numbers)
+
+print('Finally, Boom Boom')
